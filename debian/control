@@ -1,5 +1,5 @@
 Source: debhelper
-Section: devel
+Section: host/tools
 Priority: optional
 Maintainer: Joey Hess <joeyh@debian.org>
 Build-Depends: po4a (>= 0.24), man-db (>= 2.5.1), file (>= 3.23)
